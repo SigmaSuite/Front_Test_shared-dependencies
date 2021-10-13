@@ -1,7 +1,6 @@
 {
-  "name": "@angular-microfrontends/shared-dependencies",
+  "name": "@Sigma/Front_Test_shared-dependencies",
   "version": "0.1.0-0",
-  "repository": "https://github.com/angular-microfrontends/shared-dependencies.git",
   "license": "MIT",
   "private": true,
   "scripts": {
